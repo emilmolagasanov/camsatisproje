@@ -37,3 +37,6 @@ Ana sayfaya veya ürünler sayfasına geri dönme seçenekleri.
 
 3. Ekranın Yukarısında Sağ Köşede Sepetimiz Var. Ürün Eklemediğimiz Sürece Boş Gözükecek.
 ![Ekran görüntüsü 2025-01-06 165224](https://github.com/user-attachments/assets/5c7ae993-0a0b-40ac-aaa8-1e6a7ae7a829)
+
+4. Dilediğiniz Ürünün Üstüne Tıklayaran Sipariş Formu Ekranına Geçiyorsunuz . Orada Siparişi Vermek Ve Ad,Soyad,Ölçü,Adres,Posta Kodu, Telefon Numarasını doldurmanızı isteyen Boşluklar Var Örnek:
+ ![Ekran görüntüsü 2025-01-06 165353](https://github.com/user-attachments/assets/9e8831ad-def3-49a7-a692-7ec366c9f468)
