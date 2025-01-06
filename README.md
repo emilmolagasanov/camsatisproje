@@ -40,3 +40,10 @@ Ana sayfaya veya ürünler sayfasına geri dönme seçenekleri.
 
 4. Dilediğiniz Ürünün Üstüne Tıklayaran Sipariş Formu Ekranına Geçiyorsunuz . Orada Siparişi Vermek Ve Ad,Soyad,Ölçü,Adres,Posta Kodu, Telefon Numarasını doldurmanızı isteyen Boşluklar Var Örnek:
  ![Ekran görüntüsü 2025-01-06 165353](https://github.com/user-attachments/assets/9e8831ad-def3-49a7-a692-7ec366c9f468)
+
+5. Sipariş Formunu Doldurduktan Sonra "Sipariş Ver" Butonuna Tıklayacaksınız Sizi Hemen Sebete Götürecek Ve Sipariş Formundaki Yazdığınız Bilgiler Orada Gözükecek.
+![Ekran görüntüsü 2025-01-06 165406](https://github.com/user-attachments/assets/20b4bfbd-c6b3-4b93-92f1-1e89446ed11d)
+
+6. Sepetteki "Siparişi Oluştur" Butonuna Tıklayarak Siparişinizi Başarıyla Tamamlamış Olacaksınız Ve Karşınıza Böyle Bir Sayfa Çıkacak. Bu Sayfadanda Bir Önceki Sayfalar Çıkış İçin Butonlar Eklenmiştir.
+   ![Ekran görüntüsü 2025-01-06 165457](https://github.com/user-attachments/assets/d0a49d43-7958-4817-a612-73f68b3d7ebc)
+
