@@ -29,4 +29,5 @@ Siparişi tamamla butonu.
 Kullanıcıya siparişin başarıyla tamamlandığını bildirir.
 Ana sayfaya veya ürünler sayfasına geri dönme seçenekleri.
 # Uygulamanın Ekran Resimleri
-İlk Önce Projeyi Çalıştırarken Giriş Sayfası Bizi Karşılamaktadır. Burada Firma İle İlgili Kısa Bilgi Verilmiştir.Satışını Yaptığımız Ürünleri Görmek İçin Bir Buton var.  ![Ekran görüntüsü 2025-01-06 165156](https://github.com/user-attachments/assets/642dcc05-b574-46fb-8e85-96fc77ee5a33)
+İlk Önce Projeyi Çalıştırarken Giriş Sayfası Bizi Karşılamaktadır. Burada Firma İle İlgili Kısa Bilgi Verilmiştir.Satışını Yaptığımız Ürünleri Görmek İçin Bir Buton var.  
+![Ekran görüntüsü 2025-01-06 165156](https://github.com/user-attachments/assets/642dcc05-b574-46fb-8e85-96fc77ee5a33)
