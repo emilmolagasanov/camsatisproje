@@ -47,3 +47,5 @@ Ana sayfaya veya ürünler sayfasına geri dönme seçenekleri.
 7. Sepetteki "Siparişi Oluştur" Butonuna Tıklayarak Siparişinizi Başarıyla Tamamlamış Olacaksınız Ve Karşınıza Böyle Bir Sayfa Çıkacak. Bu Sayfadanda Bir Önceki Sayfalar Çıkış İçin Butonlar Eklenmiştir.
 ![Ekran görüntüsü 2025-01-06 165457](https://github.com/user-attachments/assets/d0a49d43-7958-4817-a612-73f68b3d7ebc)
 
+# Projemin OneDrive Linki:
+https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EnHhnfff31NBr1uE-3kPeCUBwHCMmB2O_yGTAI40fTXR3g?e=pPjQK9
