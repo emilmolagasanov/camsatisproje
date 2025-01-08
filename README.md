@@ -48,4 +48,4 @@ Ana sayfaya veya ürünler sayfasına geri dönme seçenekleri.
 ![Ekran görüntüsü 2025-01-06 165457](https://github.com/user-attachments/assets/d0a49d43-7958-4817-a612-73f68b3d7ebc)
 
 # Projemin OneDrive Linki:
-https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EnHhnfff31NBr1uE-3kPeCUBAOvsdyo15SbN9wIu6CFytw?e=4Y0qpz
+
