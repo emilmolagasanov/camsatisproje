@@ -1,6 +1,6 @@
 # Mobil Programlama Projesi - CAMSATİSPROJE
 # Projenin Tanıtımı
-Letax Cam Sipariş Uygulaması, kullanıcıların cam ürünleri ve cam işleme malzemeleri hakkında bilgi edinip kolayca sipariş verebileceği bir mobil uygulamadır. Şık ve kullanıcı dostu tasarımıyla, müşterilere Letax Cam firmasının sunduğu geniş ürün yelpazesi ve hizmetlerini tanıtmayı amaçlamaktadır.
+Lebor Cam Sipariş Uygulaması, kullanıcıların cam ürünleri ve cam işleme malzemeleri hakkında bilgi edinip kolayca sipariş verebileceği bir mobil uygulamadır. Şık ve kullanıcı dostu tasarımıyla, müşterilere Lebor Cam firmasının sunduğu geniş ürün yelpazesi ve hizmetlerini tanıtmayı amaçlamaktadır.
 # Uygulamanın Özellikleri
 
 1.Giriş Sayfası: 
