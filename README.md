@@ -1,4 +1,4 @@
-# Mobil Programlama Projesi - CAMSATİSPROJE
+![Ekran görüntüsü 2025-01-09 224020](https://github.com/user-attachments/assets/793c872e-3669-4275-a205-6f8415b4eb2a)# Mobil Programlama Projesi - CAMSATİSPROJE
 # Projenin Tanıtımı
 Lebor Cam Sipariş Uygulaması, kullanıcıların cam ürünleri ve cam işleme malzemeleri hakkında bilgi edinip kolayca sipariş verebileceği bir mobil uygulamadır. Şık ve kullanıcı dostu tasarımıyla, müşterilere Lebor Cam firmasının sunduğu geniş ürün yelpazesi ve hizmetlerini tanıtmayı amaçlamaktadır.
 # Uygulamanın Özellikleri
@@ -33,19 +33,20 @@ Ana sayfaya veya ürünler sayfasına geri dönme seçenekleri.
 ![Ekran görüntüsü 2025-01-09 223957](https://github.com/user-attachments/assets/80798551-2cdb-4d3a-8fc3-e645781fb36f)
 
 2. Butona Tıkladıktan Sonra Ürünlerimiz Olduğu Sayfa Açılıyor.
-![Ekran görüntüsü 2025-01-06 165209](https://github.com/user-attachments/assets/1263fbae-d619-45d2-8713-012d53732dcc)
+![Ekran görüntüsü 2025-01-09 224008](https://github.com/user-attachments/assets/48eb8b71-3e0f-43fd-939e-445dd9a0bfac)
 
 3. Ekranın Yukarısında Sağ Köşede Sepetimiz Var. Ürün Eklemediğimiz Sürece Boş Gözükecek.
-![Ekran görüntüsü 2025-01-06 165224](https://github.com/user-attachments/assets/5c7ae993-0a0b-40ac-aaa8-1e6a7ae7a829)
+![Ekran görüntüsü 2025-01-09 224020](https://github.com/user-attachments/assets/44b76d16-a43b-45e9-bd5b-126e652a14bf)
 
 4. Dilediğiniz Ürünün Üstüne Tıklayaran Sipariş Formu Ekranına Geçiyorsunuz . Orada Siparişi Vermek Ve Ad,Soyad,Ölçü,Adres,Posta Kodu, Telefon Numarasını doldurmanızı isteyen Boşluklar Var Örnek:
-![Ekran görüntüsü 2025-01-06 165353](https://github.com/user-attachments/assets/9e8831ad-def3-49a7-a692-7ec366c9f468)
+![Ekran görüntüsü 2025-01-09 224457](https://github.com/user-attachments/assets/b08da66a-7d95-4d05-8a24-a9ee678dc753)
 
 5. Sipariş Formunu Doldurduktan Sonra "Sipariş Ver" Butonuna Tıklayacaksınız Sizi Hemen Sebete Götürecek .
-![Ekran görüntüsü 2025-01-06 165406](https://github.com/user-attachments/assets/20b4bfbd-c6b3-4b93-92f1-1e89446ed11d)
+![Ekran görüntüsü 2025-01-09 224524](https://github.com/user-attachments/assets/03daa884-a3b8-46bb-9f45-1ce429c4b4a8)
 
 7. Sepetteki "Siparişi Oluştur" Butonuna Tıklayarak Siparişinizi Başarıyla Tamamlamış Olacaksınız Ve Karşınıza Böyle Bir Sayfa Çıkacak. Bu Sayfadanda Bir Önceki Sayfalar Çıkış İçin Butonlar Eklenmiştir.
-![Ekran görüntüsü 2025-01-06 165457](https://github.com/user-attachments/assets/d0a49d43-7958-4817-a612-73f68b3d7ebc)
+![Ekran görüntüsü 2025-01-09 224535](https://github.com/user-attachments/assets/417fbdf4-2f80-4083-92ce-299b30e93e3c)
+
 
 # Projemin OneDrive Linki:
 https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/El_ZPF_iUZpEkON--yo6VQcB1rjN23viw10YfhZDXRu9Cw?e=qd4dsu
