@@ -30,7 +30,7 @@ Kullanıcıya siparişin başarıyla tamamlandığını bildirir.
 Ana sayfaya veya ürünler sayfasına geri dönme seçenekleri.
 # Uygulamanın Ekran Resimleri
 1. İlk Önce Projeyi Çalıştırarken Giriş Sayfası Bizi Karşılamaktadır. Burada Firma İle İlgili Kısa Bilgi Verilmiştir.Satışını Yaptığımız Ürünleri Görmek İçin Bir Buton var.  
-[Ekran görüntüsü 2025-01-09 223957](https://github.com/user-attachments/assets/80798551-2cdb-4d3a-8fc3-e645781fb36f)
+![Ekran görüntüsü 2025-01-09 223957](https://github.com/user-attachments/assets/80798551-2cdb-4d3a-8fc3-e645781fb36f)
 
 2. Butona Tıkladıktan Sonra Ürünlerimiz Olduğu Sayfa Açılıyor.
 ![Ekran görüntüsü 2025-01-06 165209](https://github.com/user-attachments/assets/1263fbae-d619-45d2-8713-012d53732dcc)
