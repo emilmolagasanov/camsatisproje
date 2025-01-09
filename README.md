@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2025-01-09 224020](https://github.com/user-attachments/assets/793c872e-3669-4275-a205-6f8415b4eb2a)# Mobil Programlama Projesi - CAMSATİSPROJE
+
 # Projenin Tanıtımı
 Lebor Cam Sipariş Uygulaması, kullanıcıların cam ürünleri ve cam işleme malzemeleri hakkında bilgi edinip kolayca sipariş verebileceği bir mobil uygulamadır. Şık ve kullanıcı dostu tasarımıyla, müşterilere Lebor Cam firmasının sunduğu geniş ürün yelpazesi ve hizmetlerini tanıtmayı amaçlamaktadır.
 # Uygulamanın Özellikleri
