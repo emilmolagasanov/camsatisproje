@@ -38,11 +38,12 @@ Ana sayfaya veya ürünler sayfasına geri dönme seçenekleri.
 3. Ekranın Yukarısında Sağ Köşede Sepetimiz Var. Ürün Eklemediğimiz Sürece Boş Gözükecek.
 ![Ekran görüntüsü 2025-01-09 224020](https://github.com/user-attachments/assets/44b76d16-a43b-45e9-bd5b-126e652a14bf)
 
-4. Dilediğiniz Ürünün Üstüne Tıklayaran Sipariş Formu Ekranına Geçiyorsunuz . Orada Siparişi Vermek Ve Ad,Soyad,Ölçü,Adres,Posta Kodu, Telefon Numarasını doldurmanızı isteyen Boşluklar Var Örnek:
-![Ekran görüntüsü 2025-01-09 224457](https://github.com/user-attachments/assets/b08da66a-7d95-4d05-8a24-a9ee678dc753)
+4. Dilediğiniz Ürünün Üstüne Tıklayaran Sipariş Formu Ekranına Geçiyorsunuz . Orada Siparişi Vermek Ve Ad,Soyad,Ölçü,Adres,Posta Kodu,Ödeme Seçimi Telefon Numarasını doldurmanızı isteyen Boşluklar Var Örnek:
+![Ekran görüntüsü 2025-01-11 091945](https://github.com/user-attachments/assets/4eceedb2-d07c-462c-8fbf-172f0837d111)
+![Ekran görüntüsü 2025-01-11 091954](https://github.com/user-attachments/assets/055cd7b0-3a65-4f87-8e45-d54075a4e0ef)
 
 5. Sipariş Formunu Doldurduktan Sonra "Sipariş Ver" Butonuna Tıklayacaksınız Sizi Hemen Sebete Götürecek .
-![Ekran görüntüsü 2025-01-09 224524](https://github.com/user-attachments/assets/03daa884-a3b8-46bb-9f45-1ce429c4b4a8)
+![Ekran görüntüsü 2025-01-11 092203](https://github.com/user-attachments/assets/5815e94a-185f-44eb-b034-b25ab59918f9)
 
 7. Sepetteki "Siparişi Oluştur" Butonuna Tıklayarak Siparişinizi Başarıyla Tamamlamış Olacaksınız Ve Karşınıza Böyle Bir Sayfa Çıkacak. Bu Sayfadanda Bir Önceki Sayfalar Çıkış İçin Butonlar Eklenmiştir.
 ![Ekran görüntüsü 2025-01-09 224535](https://github.com/user-attachments/assets/417fbdf4-2f80-4083-92ce-299b30e93e3c)
