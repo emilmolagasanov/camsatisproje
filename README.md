@@ -1,6 +1,6 @@
 
 # Projenin Tanıtımı
-Lebor Cam Sipariş Uygulaması, kullanıcıların cam ürünleri ve cam işleme malzemeleri hakkında bilgi edinip kolayca sipariş verebileceği bir mobil uygulamadır. Şık ve kullanıcı dostu tasarımıyla, müşterilere Lebor Cam firmasının sunduğu geniş ürün yelpazesi ve hizmetlerini tanıtmayı amaçlamaktadır.
+Merhabalar, İsmim Emil Molagasanov. Bu Projeyi Kendim Yaptım Hiç Bir Ekip Olmadan. Lebor Cam Sipariş Uygulaması, kullanıcıların cam ürünleri ve cam işleme malzemeleri hakkında bilgi edinip kolayca sipariş verebileceği bir mobil uygulamadır. Şık ve kullanıcı dostu tasarımıyla, müşterilere Lebor Cam firmasının sunduğu geniş ürün yelpazesi ve hizmetlerini tanıtmayı amaçlamaktadır.
 # Uygulamanın Özellikleri
 
 1.Giriş Sayfası: 
