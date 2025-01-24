@@ -50,7 +50,6 @@ Ana sayfaya veya ürünler sayfasına geri dönme seçenekleri.
 
 
 # Projemin OneDrive Linki:
-https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/El_ZPF_iUZpEkON--yo6VQcB1rjN23viw10YfhZDXRu9Cw?e=qd4dsu
-
+https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/EslPz5R90gtMvGCx_18OjtEBugfv--I6fHkoYlOwh31yHw?e=lI91nr
 # Projemin Youtube Linki
 https://youtu.be/bf0I978OccY?si=F4xApn5Lizg7_HOA
